@@ -24,20 +24,20 @@
     z-index: 3;
 }
 .main__title{
-    color: aliceblue;
-    font-size: 52px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(110, 118, 51);
+    font-size: 62px;
+   font-family:serif;
 
 }
 .overlay{
-    width: 6%;
+    width: 2%;
     height: 100%;
     position: relative;
     z-index: 4;
     background: url(img/me.JPG) no-repeat center;
     background-attachment: fixed;
     transition: 1.2s linear;
-    background-size: ;
+ 
 }
 
 .overlay:hover{
